@@ -8,7 +8,7 @@ Wrong Input:
 ![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_43_43 PM](https://github.com/user-attachments/assets/30c16c10-8bf8-457a-af42-4b05f9c7a0eb)
 
 Right Input: 
-![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_44_13 PM](https://github.com/user-attachments/assets/37c91c13-440c-4784-a05f-a626f267cdbc)
+![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_44_13 PM](https://github.com/user-attachments/assets/38f4c9bd-7ec8-4ff7-a8fe-fe3105e8b449)
 
 ![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_44_23 PM](https://github.com/user-attachments/assets/0aecf0dc-6566-4647-b12a-9a932f805913)
 
