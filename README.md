@@ -1,7 +1,23 @@
 # Anime-RecommendationSystem
 In process: Anime Recommendation App
 
-[2d3e4537-69a1-4ec0-a0d2-b9e1c5a0ca0e.webm](https://github.com/user-attachments/assets/7f514241-ef5b-453d-82ed-f4998917261c)
+Home Page:
+![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_43_30 PM](https://github.com/user-attachments/assets/fe693a82-3a19-495e-9566-3c84798d4a89)
+
+Wrong Input:
+![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_43_43 PM](https://github.com/user-attachments/assets/30c16c10-8bf8-457a-af42-4b05f9c7a0eb)
+
+Right Input: 
+![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_44_13 PM](https://github.com/user-attachments/assets/37c91c13-440c-4784-a05f-a626f267cdbc)
+
+![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_44_23 PM](https://github.com/user-attachments/assets/0aecf0dc-6566-4647-b12a-9a932f805913)
+
+![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_44_32 PM](https://github.com/user-attachments/assets/570e95d1-170a-4b99-811a-912ba46ff90c)
+
+![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_44_45 PM](https://github.com/user-attachments/assets/0e18441c-5aea-4ec9-9261-7533356b6c7a)
+
+![anime_recommendations - Personal - Microsoft​ Edge 10_18_2024 11_44_54 PM](https://github.com/user-attachments/assets/1cb81681-dfad-40b5-97dd-b01c7d074cdb)
+
 
 ## Dataset
 
