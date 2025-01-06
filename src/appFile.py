@@ -5,9 +5,12 @@ from sqlalchemy import create_engine
 import mysql.connector
 import streamlit.components.v1 as components
 import requests
+import copy
 
 df1 = pd.read_csv(r'path1')
 df2 = pd.read_csv(r'path2')
+df3 = copy.copy(df1)
+df3["name"] = df3["name"].map(str.upper)
 
 db_url ='mysql+mysqlconnector://...../anime_rec'
 
